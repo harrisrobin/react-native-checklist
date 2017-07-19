@@ -22,7 +22,7 @@ A check list to refer to before starting a react-native project. All credit goes
 - [Init App](#init-app)
   - [Starters](#starters)
 - [App Icons & Splash-screen](#app-icons-&-splash-screen)
-  - [Automatic](#generate-app-icons-&-splash-screne automatically)
+  - [Automatic](#generate-app-icons-&-splash-screen-automatically)
   - [Manual](#generate-app-icons-&-splash-screen-manually)
 - [Rename App](#rename-app)
   - [Automatic](#rename-app-automatically)
