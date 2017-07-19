@@ -13,6 +13,7 @@
 
 A check list to refer to before starting a react-native project. All credit goes to Chris Ball as this is heavily based on his [Chain React 2017](https://www.youtube.com/watch?v=W8X7t1qlT_w) talk.
 
+***Disclaimer: This is still a work in progress. If you notice any mistakes, PRs are very appreciated.***
 
 ## Table of content
 
