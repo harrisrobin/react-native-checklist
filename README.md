@@ -19,6 +19,8 @@ A check list to refer to before starting a react-native project. All credit goes
   - [App Store](#app-store-and-google-play)
 - [Init App](#init-app)
   - [Starters](#starters)
+- [Development Strategy Tips](#development-strategy-tips)
+  - [Focus on one, check both](#focus-on-one-check-both)
 - [App Icons & Splash-screen](#app-icons-and-splash-screen)
   - [Automatic](#generate-app-icons-&-splash-screen-automatically)
   - [Manual](#generate-app-icons-&-splash-screen-manually)
@@ -55,6 +57,13 @@ There are many boilerplates/starter kits for react-native out there. I highly re
 
 #### [ignite 🔗](https://github.com/infinitered/ignite)
 #### [pepperoni-app-kit 🔗](https://github.com/futurice/pepperoni-app-kit)
+
+## Development Strategy Tips
+
+### Focus on one, check both.
+Even if you choose to focus on one platform at first, it is recommended that you always check both, especially if you are installing a lot of third-party libraries. React Native is constantly changing and the libraries you are using probably cannot keep up with all the breaking changes being introduced. If you want to avoid making bad decisions and identifying potential road blocks early, make sure you always check both platforms.
+
+Even better, focus on Android and check iOS. This is because Android is the platform most likely to make you run into issues.
 
 ## App Icons and Splash-screen
 ### Generate App Icon & Splash-screen Automatically
