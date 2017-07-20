@@ -15,28 +15,27 @@ A check list to refer to before starting a react-native project. All credit goes
 ***Disclaimer: This is still a work in progress. If you notice any mistakes, PRs are very appreciated.***
 
 ## Table of content
-
 - [Prerequisites](#installation)
-  - [App Store](#app-store-account)
+  - [App Store](#app-store-and-google-play)
 - [Init App](#init-app)
   - [Starters](#starters)
-- [App Icons & Splash-screen](#app-icons-&-splash-screen)
+- [App Icons & Splash-screen](#app-icons-and-splash-screen)
   - [Automatic](#generate-app-icons-&-splash-screen-automatically)
   - [Manual](#generate-app-icons-&-splash-screen-manually)
-- [Rename App](#rename-app)
+- [Rename App](#rename)
   - [Automatic](#rename-app-automatically)
   - [Manual](#rename-app-manually)
 - [CI](#ci)
-  - [Comparison Table](#comparison-table)
-- [Handle Offloine](#handle-offline)
+  - [Comparison Table](#ci-comparison-table)
+- [Handle Offline](#handle-offline)
   - @TODO
 - [Certificates](#Certificates)
   - @TODO
 - [Use Fastlane Precheck](#use-fastlane-precheck)
-- [Review Apple's Common App Rejections](#review-common-app-rejection)
+- [Review Apple's Common App Rejections](#common-app-rejection)
 
 ## Prerequisites
-### App Store / Google Play
+### App Store and Google Play
 
 #### iOS
 If you are a company, you will need a [D-U-N-S number](https://developer.apple.com/support/D-U-N-S/).
@@ -57,7 +56,7 @@ There are many boilerplates/starter kits for react-native out there. I highly re
 #### [ignite 🔗](https://github.com/infinitered/ignite)
 #### [pepperoni-app-kit 🔗](https://github.com/futurice/pepperoni-app-kit)
 
-## App Icons & Splash-screen
+## App Icons and Splash-screen
 ### Generate App Icon & Splash-screen Automatically
 ***💻📲 (Recommended)***
 
@@ -107,7 +106,7 @@ This value is typically referenced as a named variable, defined in strings.xml
 
 ## CI
 
-### Comparison Table
+### CI Comparison Table
 #### Legend
 
 ✅ : Officially supported.
