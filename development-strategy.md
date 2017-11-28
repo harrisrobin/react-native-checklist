@@ -4,7 +4,5 @@ Even if you choose to focus on one platform at first, it is recommended that you
 
 Even better, focus on Android and check iOS. This is because Android is the platform most likely to make you run into issues.
 
-
-
-
+![](/assets/Screenshot 2017-11-26 21.10.09.png)![](/assets/Screenshot 2017-11-26 21.04.41.png)
 
