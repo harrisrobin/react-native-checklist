@@ -10,6 +10,7 @@ Of course, you can still do all of this manually.
 3. 29pt
 
 4. 29pt\*2
+
 5. 29pt\*3
 6. 40pt\*2
 7. 40pt\*3
@@ -23,7 +24,7 @@ Accessing Images.xcassets on iOS will look like this:
 
 # Android
 
-Put`ic_launcher.png `to folder`[$PrjDir]/android/app/src/main/res/mipmap-*`
+Put`ic_launcher.png`to folder`[$PrjDir]/android/app/src/main/res/mipmap-*`
 
 * 72\*72
   `ic_launcher.png`to `mipmap-hdpi`
