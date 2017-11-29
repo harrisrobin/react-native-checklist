@@ -15,7 +15,10 @@
 * [Testing Your App](testing-your-app.md)
   * [Jest](testing-your-app/jest.md)
   * [Detox](testing-your-app/detox.md)
-* Keep Tabs On Native Logs
-* Upgrade React Native with Caution!
-* CI/CD Tools
+* [Keep Tabs On Native Logs](keep-tabs-on-native-logs.md)
+* [Upgrade React Native with Caution!](upgrade-react-native-with-caution.md)
+* [CI/CD Tools](cicd-tools.md)
+* [Submission 🚀](submission-d83d-de80.md)
+  * Fastlane
+  * Common App Rejection Reasons
 
