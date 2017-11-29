@@ -2,9 +2,11 @@
 
 _**💻📲 \(Recommended\)**_
 
-Generating app icons and a splash-screen doesn't have to be hard. 
+If you would like to make your life easier and generate & automatically set your app icons and splash screen for iOS and Android, I recommend using [generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox/blob/master/generators/assets/README.md) . The toolbox also offers other cool features like generating store assets and notification icons.
 
-There are several easy to use packages that do it for you, however I recommend the [makeicon](https://github.com/beplus/makeicon) and [makesplash](https://github.com/beplus/makesplash) generator to get both icons and splash screens for both iOS and Android.  
+Here's what that looks like:
 
 
+
+\[!\[asciicast\]\(https://asciinema.org/a/S8LzQtBuVOFkhREIn2OoiDRaC.png\)\]\(https://asciinema.org/a/S8LzQtBuVOFkhREIn2OoiDRaC\)
 
