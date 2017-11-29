@@ -9,4 +9,5 @@
   * [Generate App Icon & Splash-screen Manually](app-icons-and-splash-screen/manual.md)
 * [Renaming Your App](renaming-your-app.md)
   * [Rename App Automatically](renaming-your-app/rename-app-automatically.md)
+  * [Rename App Manually Manual](renaming-your-app/rename-app-manually-manual.md)
 
