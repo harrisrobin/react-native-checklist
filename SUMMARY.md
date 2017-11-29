@@ -10,4 +10,11 @@
 * [Renaming Your App](renaming-your-app.md)
   * [Rename App Automatically](renaming-your-app/rename-app-automatically.md)
   * [Rename App Manually Manual](renaming-your-app/rename-app-manually-manual.md)
+* Debugging your UI
+* [Testing Your App](testing-your-app.md)
+  * [Jest](testing-your-app/jest.md)
+  * [Detox](testing-your-app/detox.md)
+* Keep Tabs On Native Logs
+* Upgrade React Native with Caution!
+* CI/CD Tools
 
